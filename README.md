@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that shows how marketing campaigns performed across channels, campaign types and customer segments. The dashboard turns about 200,000 campaign records into clear insights and simple recommendations.
 
-![Dashboard overview](dashboard.png)
+![Dashboard overview](dashboard.jpeg)
 
 ## Project Goal
 
@@ -52,8 +52,8 @@ Answer these business questions:
 | **Segmentation** | Revenue by customer segment (treemap and donut), engagement by target audience, orders by language |
 | **Campaign Details** | Decomposition tree of revenue, and a scatter chart of spend vs revenue by campaign type and channel |
 
-![Segmentation page](segmentation.png)
-![Campaign details page](campaign-details.png)
+![Segmentation page](segmentation.jpeg)
+![Campaign details page](campaign-details.jpeg)
 
 ## Interactive Features
 
@@ -100,9 +100,9 @@ Each file has 200,000 rows, and every `campaign_id` appears once in each file.
 ```
 ├── README.md
 ├── Marketing_Dashboard.pbix
-├── dashboard.png
-├── segmentation.png
-└── campaign-details.png
+├── dashboard.jpeg
+├── segmentation.jpeg
+└── campaign-details.jpeg
 ```
 
 ## Author
