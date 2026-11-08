@@ -52,7 +52,7 @@ Answer these business questions:
 | **Segmentation** | Revenue by customer segment (treemap and donut), engagement by target audience, orders by language |
 | **Campaign Details** | Decomposition tree of revenue, and a scatter chart of spend vs revenue by campaign type and channel |
 
-![Segmentation page](segmentation.jpeg)
+![Segmentation page](segmentation.png.jpeg)
 ![Campaign details page](campaign-details.jpeg)
 
 ## Interactive Features
